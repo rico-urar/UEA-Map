@@ -1,0 +1,197 @@
+id,label,timeset,creditos,tronco,estado
+1100033,Induccion a la Vida Universitaria,,3,NIV,3
+1100037,Introduccion a la Ingenieria,,6,IMD,3
+1111078,Introduccion a la Fisica,,4,NIV,3
+1111079,Cinematica y dinamica de particulas,,9,GEN,3
+1111081,Dinamica del cuerpo rigido,,9,GEN,3
+1111092,Laboratorio de movimiento de una particula,,3,GEN,3
+1112013,Complementos de matematicas,,9,GEN,3
+1112026,Taller de Matematicas,,7,NIV,3
+1112027,Introduccion al calculo,,6,GEN,3
+1112028,Calculo diferencial,,9,GEN,3
+1113046,Termodinamica,,6,GEN,3
+1113084,Estructura atomica y enlace quimico,,9,GEN,3
+1113085,Laboratorio de reacciones quimicas,,3,GEN,3
+1113086,Estructura y propiedades de los materiales en ingenieria,,6,GEN,3
+1113087,Laboratorio de estructura y propiedades de los materiales,,3,GEN,3
+1151038,Programacion estructurada,,7,GEN,3
+1151039,Metodos numericos en ingenieria,,7,GEN,3
+1154046,50 CREDITOS,,5,NIV,3
+1154047,100 CREDITOS,,7,NIV,3
+1100038,Introduccion al Desarrollo Sustentable,,6,IMD,3
+1111083,Introduccion a la electrostatica y magnetostatica,,9,GEN,3
+1111093,Laboratorio del cuerpo rigido y oscilaciones,,3,GEN,3
+1111094,Laboratorio de electricidad y magnetismo,,3,B PROF,3
+1137006,Termodinamica aplicada,,9,B PROF,3
+1111013,Dinamica aplicada,,9,B PROF,1
+1111090,Induccion y ondas electromagneticas,,9,B PROF,1
+1112005,Calculo de varias variables,,12,B PROF,1
+1112017,Introduccion al algebra Lineal,,9,INT,1
+1112029,Calculo integral,,9,GEN,3
+1112030,Ecuaciones diferenciales ordinarias,,9,GEN,2
+1113069,Fisicoquimica de los materiales,,9,B PROF,2
+1113070,Laboratorio de fisicoquimica de los materiales,,3,B PROF,2
+1121037,Diseno Logico *,,12,INT,1
+1121040,Laboratorio de Diseno Logico *,,6,INT,1
+1124001,Circuitos electricos i,,9,B PROF,2
+1124005,Laboratorio de circuitos electricos i,,3,B PROF,2
+1131065,Energia Solar Fotovoltaica *,,9,INT,1
+1132052,Procesos de Conversion de Energia  *,,6,INT,1
+1133061,Dibujo Mecanico Asistido por Computadora *,,9,INT,1
+1137005,Transferencia de momento,,9,B PROF,1
+1137007,Propiedades termodinamicas,,9,B PROF,1
+1145054,Ingenieria de los Materiales *,,9,INT,1
+1145055,Laboratorio de Ingenieria de los Materiales *,,3,INT,1
+1151042,Algoritmos y Estructura de Datos,,8,INT,1
+1152001,Investigacion de Operaciones I,,9,INT,1
+1153001,Probabilidad y estadistica,,9,GEN,2
+1154048,150 CREDITOS,,9,NIV,1
+1100021,Optativa Tecnica de Movilidad I,,3,INT,0
+1100022,Optativa Tecnica de Movilidad II,,3,INT,0
+1100023,Optativa Tecnica de Movilidad III,,6,INT,0
+1100024,Optativa Tecnica de Movilidad IV,,6,INT,0
+1100025,Optativa Tecnica de Movilidad V,,9,INT,0
+1100026,Optativa Tecnica de Movilidad VI,,9,INT,0
+1100039,Innovacion,,6,IMD,0
+1100040,Taller de Planeacion y Ejecucion de Proyectos,,6,IMD,0
+1100041,Retos del Desarrollo Nacional,,6,IMD,0
+1100073,El Paisaje como Agente de los Asentamientos y de la Cultura,,6,IMD,0
+1100074,Familia y Violencia en el Mexico Contemporaneo,,6,IMD,0
+1100075,Genero y Sexualidad,,6,IMD,0
+1100076,Poder y Genero,,6,IMD,0
+1100077,Administracion y Economia Politica de la Ciencia y Tecnologia,,6,IMD,0
+1100078,Derechos Humanos,,6,IMD,0
+1100079,Economia Mundial,,6,IMD,0
+1100080,Etica y Valores,,6,IMD,0
+1100081,Historia Social de Mexico en el Siglo XX,,6,IMD,0
+1100082,Responsabilidad Social Organizacional,,6,IMD,0
+1100083,Comunicacion en Proyectos Multidisciplinarios,,6,IMD,0
+1100084,Herramientas para  el Emprendedor ,,6,IMD,0
+1100085,Insercion Laboral ,,6,IMD,0
+1100086,Planeacion Estrategica,,6,IMD,0
+1100087,Proyectos de Inversion,,6,IMD,0
+1100088,Historia del Arte,,6,IMD,0
+1100089,Taller de Dibujo,,6,IMD,0
+1100090,Taller de Fotografia,,6,IMD,0
+1100091,Taller de Teatro,,6,IMD,0
+1100092,Divulgacion del Conocimiento,,6,IMD,0
+1100093,Habilidades Creativas para el ambito Profesional,,6,IMD,0
+1100094,Laboratorio de Usabilidad,,6,IMD,0
+1100095,Narrativa para Medios Audiovisuales y Digitales,,6,IMD,0
+1100096,Taller de Expresion Oral y Escrita,,6,IMD,0
+1100099,Experiencia Inter y Multidisciplinar,,6,IMD,0
+1100106,Seminario de Integracion en Ingenieria Fisica ,,3,INT,0
+1100116,Proyecto de Integracion en Ingenieria Fisica I,,18,INT,0
+1100126,Proyecto de Integracion en Ingenieria Fisica II,,18,INT,0
+1100136,Introduccion al trabajo de investigacion en Ingenieria Fisica,,6,INT,0
+1100141,Temas Selectos Inter y Multidisciplinares I,,6,IMD,0
+1100142,Temas Selectos Inter y Multidisciplinares II,,6,IMD,0
+1100143,Etica y Legislacion Informatica,,6,IMD,0
+1110003,Practicas Profesionales en Ingenieria Fisica,,18,INT,0
+1111019,Mecanica estadistica,,9,B PROF,0
+1111032,Fisica del Estado Solido  *,,9,INT,0
+1111034,Propiedades Electricas y Magneticas de los Materiales *,,9,INT,0
+1111043,Electromagnetismo,,9,B PROF,0
+1111044,Aplicaciones del electromagnetismo,,9,B PROF,0
+1111045,Estatica del Cuerpo Deformable,,9,INT,0
+1111048,Fisica moderna,,9,B PROF,0
+1111052,Temas Selectos de Ingenieria Fisica,,9,INT,0
+1111053,Acustica ,,9,INT,0
+1111054,"Sensores, Transductores y Detectores *",,9,INT,0
+1111055,Optica,,9,B PROF,0
+1111057,Imagenes ,,9,INT,0
+1111058,Instrumentacion y Equipo II *,,9,INT,0
+1111059,Ingenieria optica,,9,INT,0
+1111060,Principios de Diseno y Construccion de Equipos e Instrumentos *,,9,INT,0
+1111066,Temas Selectos de Ingenieria Fisica II,,9,INT,0
+1111067,Temas Selectos de Ingenieria Fisica III,,9,INT,0
+1111069,Laboratorio de optica,,3,B PROF,0
+1111070,Laboratorio Interdisciplinario,,6,INT,0
+1111085,Analisis vectorial,,9,B PROF,0
+1111087,Laboratorio de fisica moderna,,3,B PROF,0
+1111088,Laboratorio de fisica atomica y molecular,,3,B PROF,0
+1111091,Funciones especiales,,9,B PROF,0
+1111095,Optoelectronica ,,9,INT,0
+1112015,Matematicas aplicadas para ingenieria,,9,B PROF,0
+1112016,Variable compleja,,6,B PROF,0
+1113057,Contaminacion Ambiental,,9,INT,0
+1113071,Quimica Fisica Aplicada,,9,INT,0
+1122012,Procesamiento digital de senales,,9,B PROF,0
+1123016,Instrumentacion y Equipo I *,,9,INT,0
+1123021,Microcontroladores *,,9,INT,0
+1123034,Laboratorio de Electronica de Potencia,,3,INT,0
+1123040,Circuitos Electronicos I *,,9,INT,0
+1123041,Circuitos Electronicos II,,9,INT,0
+1123043,Diseno de Sistemas Electronicos,,9,INT,0
+1123044,Electronica de Potencia,,9,INT,0
+1123045,Laboratorio de Circuitos Electronicos I *,,3,INT,0
+1123046,Laboratorio de Circuitos Electronicos II,,3,INT,0
+1123055,Introduccion a la Electronica  *,,9,INT,0
+1123056,Laboratorio de Introduccion a la Electronica *,,3,INT,0
+1124003,Circuitos Electricos II ,,9,INT,0
+1124049,Laboratorio de Control,,3,INT,0
+1124050,Teoria de Control,,9,INT,0
+1131068,Temas Selectos de Ingenieria Electrica I,,9,INT,0
+1131070,Circuitos Electricos de Corriente Alterna ,,9,INT,0
+1131071,Laboratorio de Circuitos Electricos de Corriente Alterna,,3,INT,0
+1132026,Transferencia de Calor  *,,9,INT,0
+1132029,Dispositivos Hidroneumaticos,,6,INT,0
+1132030,Taller de Dispositivos Hidroneumaticos,,3,INT,0
+1132040,Transferencia de Masa,,9,INT,0
+1132041,Taller de Instalaciones Industriales ,,3,INT,0
+1132042,Cambiadores de Calor *,,9,INT,0
+1132048,Turbomaquinaria ,,9,INT,0
+1132049,Combustion  *,,9,INT,0
+1132050,"Calefaccion, Ventilacion y Aire Acondicionado",,6,INT,0
+1132064,Laboratorio de termofluidos i,,3,B PROF,0
+1132065,Laboratorio de Termofluidos II *,,3,INT,0
+1132067,Recursos Energeticos,,6,INT,0
+1132068,Analisis de Problemas en Termofluidos *,,9,INT,0
+1132091,Diseno de Sistemas Energeticos *,,9,INT,0
+1132092,Energia Solar Aplicada *,,9,INT,0
+1132093,Laboratorio de Energia Solar *,,3,INT,0
+1132094,Energia Eolica Aplicada  *,,9,INT,0
+1132099,Taller de fuentes Alternas de Energia,,6,INT,0
+1133003,Laboratorio de Dinamica y Vibraciones,,3,INT,0
+1133009,Laboratorio de Mecanismos,,3,INT,0
+1133014,Procesos de Manufactura I *,,9,INT,0
+1133015,Taller de Procesos de Manufactura I *,,3,INT,0
+1133016,Diseno de Elementos de Maquinas,,9,INT,0
+1133024,Dinamica de Maquinas,,9,INT,0
+1133032,Diseno de Mecanismos,,9,INT,0
+1133048,Mediciones en ingenieria,,6,B PROF,0
+1133049,Metrologia para Manufactura,,6,INT,0
+1133055,Laboratorio de Metrologia para Manufactura,,3,INT,0
+1133060,Mecanismos,,9,INT,0
+1134002,Hidraulica de Tuberias ,,9,INT,0
+1134003,Hidraulica de Canales ,,9,INT,0
+1134004,Laboratorio de Hidraulica de Tuberias,,3,INT,0
+1135051,Laboratorio de Combustion,,3,INT,0
+1137015,Instalaciones Industriales,,9,INT,0
+1141006,Laboratorio de Ciencia de los Materiales *,,3,INT,0
+1142025,Laboratorio de Mecanica de Solidos,,3,INT,0
+1145001,Metalografia ,,6,INT,0
+1145052,Cristales y Dislocaciones *,,6,INT,0
+1145056,Comportamiento Mecanico de los Materiales *,,9,INT,0
+1145057,Laboratorio de Comportamiento Mecanico de los Materiales *,,3,INT,0
+1145058,Transformaciones de Fase en los Materiales Metalicos *,,9,INT,0
+1145060,Plasticidad de los Materiales Metalicos,,9,INT,0
+1145061,Laboratorio de Plasticidad de los Materiales Metalicos ,,3,INT,0
+1145066,Metalurgia Mecanica ,,9,INT,0
+1145071,"Oxidacion, Corrosion y Proteccion de los Materiales Metalicos *",,6,INT,0
+1145072,"Laboratorio de Oxidacion, Corrosion y Proteccion de los Materiales Metalicos  *",,3,INT,0
+1145091,Dislocaciones en los Materiales Metalicos,,9,INT,0
+1146038,Ciencia de los Materiales *,,9,INT,0
+1146041,Laboratorio de Metalurgia Mecanica,,3,INT,0
+1151009,Elemento Finito,,9,INT,0
+1154016,Estadistica Aplicada I,,9,INT,0
+1154029,Analisis y Diseno de Experimentos en Ingenieria,,9,INT,0
+1154042,Control de Calidad y Confiabilidad ,,8,INT,0
+1154045,Seguridad e Higiene Industrial,,8,INT,0
+1154049,200 CREDITOS,,11,NIV,0
+1154050,240 CREDITOS,,13,NIV,0
+1154051,250 CREDITOS,,15,NIV,0
+1154052,280 CREDITOS,,17,NIV,0
+1154053,300 CREDITOS,,19,NIV,0
+1154054,320 CREDITOS,,21,NIV,0
+1154055,350 CREDITOS,,23,NIV,0
